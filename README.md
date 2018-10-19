@@ -25,4 +25,4 @@ See http://httpbin.org for more information.
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/kennethreitz/httpbin.svg?branch=master)](https://travis-ci.org/kennethreitz/httpbin)
+[![Build Status](https://travis-ci.org/kennethreitz/httpbin.svg?branch=master)](https://travis-ci.org/kennethreitz/httpbin) [![GuardRails badge](https://badges.production.guardrails.io/moul/httpbin.svg)](https://www.guardrails.io)
